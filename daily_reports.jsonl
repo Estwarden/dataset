@@ -1,0 +1,41 @@
+{"date" : "2026-02-07", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-08", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-09", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-10", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-11", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-12", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-13", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-14", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-15", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-16", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-17", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-18", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-19", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-20", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-21", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-23", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-24", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-25", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-26", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-27", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-02-28", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-01", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-02", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-03", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-04", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-05", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-06", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-07", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-08", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-09", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-10", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-11", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-12", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-13", "cti_level" : null, "cti_score" : null, "summary" : ""}
+{"date" : "2026-03-14", "cti_level" : "GREEN", "cti_score" : 17.5, "summary" : "No significant military or hybrid activity detected in the Baltic region over the last 24 hours. Persistent GPS jamming in Kaliningrad and Pskov continues but remains at baseline levels. All other indicators, including airspace, maritime, and legislative activity, show no new threats."}
+{"date" : "2026-03-15", "cti_level" : "GREEN", "cti_score" : 0, "summary" : "No military movements, hybrid incidents, or maritime threats detected in the Baltic region in the last 24 hours. Sensor data show routine activity with no escalation indicators. Diplomatic and legislative signals remain stable."}
+{"date" : "2026-03-16", "cti_level" : "YELLOW", "cti_score" : 25.2, "summary" : "Hybrid threats are elevated with persistent Russian disinformation efforts while the region maintains a steady defense posture. No confirmed escalatory military movements or diplomatic incidents specific to the Baltic region occurred in the last 24 hours. Russia continues baseline activities such as GPS jamming."}
+{"date" : "2026-03-17", "cti_level" : "YELLOW", "cti_score" : 28.8, "summary" : "Military activity near the Baltic states remains Green with no confirmed Russian movements in the last 24 hours. GPS jamming from Kaliningrad/Pskov is a persistent threat. Narrative attacks persist across the information environment. Overall, the region remains stable with no immediate escalatory events."}
+{"date" : "2026-03-18", "cti_level" : "YELLOW", "cti_score" : 25.6, "summary" : "The Baltic region is primarily experiencing routine activities, with no confirmed kinetic or offensive military actions in the last 24 hours. A NATO exercise on Germany's Baltic coast concluded, emphasizing readiness. Adversarial activity remains limited to ongoing informational threats and persistent GPS interference from Kaliningrad, aligning with baseline hybrid warfare patterns."}
+{"date" : "2026-03-19", "cti_level" : "YELLOW", "cti_score" : 26.5, "summary" : "The Baltic region saw no direct military threats in the last 24 hours, with no reported Russian troop movements. However, concerns persist regarding ongoing hybrid threats and maritime security, particularly with Russia's declared intent to use armed naval convoys in the Baltic Sea to protect its shadow fleet. Diplomatic and legislative landscapes remain stable, despite earlier statements and legislative considerations."}
+{"date" : "2026-03-20", "cti_level" : "GREEN", "cti_score" : 16.998829, "summary" : "Military indicators remain Green with no reported Russian movements near the Baltics in the last 24h. However, persistent GPS jamming affecting the Baltic region and ongoing Russian disinformation efforts, including narratives targeting European leadership, categorize the current threat level as Yellow. Maritime activity shows no direct threats but highlights the persistent risk from uninsured 'shadow fleet' vessels transiting the Baltic Sea."}

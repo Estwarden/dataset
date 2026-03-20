@@ -1,0 +1,497 @@
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Activity", "finding" : "No new significant cyberattacks reported in the Baltic region in the last 24 hours."}
+{"report_date" : "2026-03-20", "status" : "YELLOW", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "Seven high GPS interference zones detected in the Baltic region in the last 48 hours."}
+{"report_date" : "2026-03-20", "status" : "YELLOW", "category" : "HYBRID", "label" : "Disinformation Campaign", "finding" : "Russian state media amplifies narratives disparaging European leaders and unity."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroups", "finding" : "No reported rotations or changes for eFP battlegroups in the Baltics in last 24h."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Defense Spending Estonia", "finding" : "Discussion on combining rising defense spending with public finances in Estonia."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Internal Legislation", "finding" : "No new Russian laws or decrees affecting Baltic security reported in last 72h."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Incidents", "finding" : "No Russia-Baltic diplomatic incidents or escalatory signals reported in last 24h."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No new NATO exercise announcements or escalatory developments in Baltic region in last 24h."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No confirmed 'shadow fleet' activity in Baltic Sea in last 24 hours."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No reported activity or unusual deployments from Kaliningrad garrison in last 24h."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "MILITARY", "label" : "6th Combined Arms Army", "finding" : "No activity from 6th Combined Arms Army in last 24h."}
+{"report_date" : "2026-03-20", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Military Activity", "finding" : "No reported Russian military movements near the Baltic states in the last 24 hours."}
+{"report_date" : "2026-03-19", "status" : "YELLOW", "category" : "HYBRID", "label" : "GPS Interference", "finding" : "7 high GPS interference zones detected in the last 48 hours."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Vessel Tracking", "finding" : "1293 vessels tracked via AIS in the last 24 hours."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "MILITARY", "label" : "ADS-B Military Flights", "finding" : "11 military flights detected via ADS-B in the last 24 hours."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No verified Russian military movements near Baltic states in last 24 hours."}
+{"report_date" : "2026-03-19", "status" : "YELLOW", "category" : "MARITIME", "label" : "Russian Shadow Fleet", "finding" : "Russia plans armed naval convoys in Baltic Sea to protect shadow fleet."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Incidents", "finding" : "No confirmed shadow fleet incidents in Baltic Sea within 24h."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "HYBRID", "label" : "Hybrid Warfare Incidents", "finding" : "No hybrid warfare incidents targeting Baltic states reported in 24h."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "NATO", "label" : "NATO Defense Developments", "finding" : "No specific NATO defense developments in Baltic region in last 24h."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Russia-Baltic Diplomatic Signals", "finding" : "No reported Russia-Baltic diplomatic events or escalation signals in last 24h."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Legislation Changes", "finding" : "No new Russian laws signaling escalation risk for Baltics in last 72h."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Estonia Foreign Minister on Russian Combadants", "finding" : "Estonia banned entry for over 1300 Russian combatants, says Foreign Minister."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "NATO", "label" : "Lithuanian President at Baltic Military Conference", "finding" : "Lithuanian President discusses NATO role, defense industry, and Russian threats."}
+{"report_date" : "2026-03-19", "status" : "YELLOW", "category" : "HYBRID", "label" : "Extremist Literature (Estonia-Russia border)", "finding" : "Illegal movement of extremist literature from Estonia to Russia was prevented."}
+{"report_date" : "2026-03-19", "status" : "GREEN", "category" : "MILITARY", "label" : "Thermal Detections (FIRMS)", "finding" : "270 thermal detections at military sites in the last 48 hours."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "MARITIME", "label" : "Vessel Tracking", "finding" : "1293 vessels tracked in Baltic Sea over the last 24 hours."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "NATO", "label" : "NATO Steadfast Dart 2026", "finding" : "Steadfast Dart 2026 exercise on German Baltic coast concluded."}
+{"report_date" : "2026-03-18", "status" : "YELLOW", "category" : "LEGISLATIVE", "label" : "Russian Citizen Expelled from Estonia", "finding" : "Russian citizen expelled from Estonia for national security concerns."}
+{"report_date" : "2026-03-18", "status" : "YELLOW", "category" : "LEGISLATIVE", "label" : "Threat to Russians in Baltic States", "finding" : "Lithuania banned entry to 268 Russians involved in the SVO."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Legislation Changes", "finding" : "No new Russian laws directly impacting Baltic security in 72h."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Baltic-Russia Diplomatic Signals", "finding" : "No new diplomatic escalation signals between Russia and Baltic states."}
+{"report_date" : "2026-03-18", "status" : "YELLOW", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "New LHV bank phishing scam targeting Estonian customers."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Sabotage", "finding" : "No new undersea cable sabotage incidents reported in last 24h."}
+{"report_date" : "2026-03-18", "status" : "YELLOW", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "8 high GPS interference zones detected in the region over 48h."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "MILITARY", "label" : "AH-64E Apache Deployment", "finding" : "US Army fields AH-64E Apaches at Fort Bliss."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No confirmed Russian troop movements near Baltic states in last 24h."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "NATO", "label" : "ADS-B Military Flights", "finding" : "11 military flights tracked via ADS-B data in the last 24 hours."}
+{"report_date" : "2026-03-18", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No new Russian shadow fleet activity in Baltic Sea in last 24h."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Military Activity", "finding" : "No confirmed Russian military movements near Baltic states in last 24h."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Tracked Vessels", "finding" : "1293 vessels tracked via AIS in Baltic Sea in last 24 hours, routine activity observed."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "MILITARY", "label" : "Thermal Detections (FIRMS)", "finding" : "454 thermal detections at military sites in the last 48 hours, no unusual spikes."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Russia-Baltic Relations", "finding" : "No Russia-Baltic diplomatic events or escalation signals reported in last 24 hours."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Legislation Impact", "finding" : "No new Russian laws with direct Baltic escalation implications in last 72 hours."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "HYBRID", "label" : "Infrastructure Risk", "finding" : "No new incidents of drone incursions or sabotage to critical infrastructure reported."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Apology to Estonian Officials", "finding" : "SDE leader Lauri Läänemets apologized to diplomat Kionka and President Karis."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises/Deployments", "finding" : "No new NATO defense developments or exercises reported in the last 24 hours."}
+{"report_date" : "2026-03-17", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet", "finding" : "No reported shadow fleet activity in Baltic Sea area in last 24 hours."}
+{"report_date" : "2026-03-17", "status" : "YELLOW", "category" : "HYBRID", "label" : "Narrative Attacks", "finding" : "Russian state media pushes fake news about the 2026 referendum on the Soviet Union."}
+{"report_date" : "2026-03-17", "status" : "YELLOW", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "Persistent GPS jamming in Baltic Sea area continues from Kaliningrad/Pskov."}
+{"report_date" : "2026-03-17", "status" : "YELLOW", "category" : "MILITARY", "label" : "ADS-B Tracked Flights", "finding" : "3 military flights tracked via ADS-B in Baltic vicinity in the last 24 hours."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "MILITARY", "label" : "Military Activity", "finding" : "No confirmed Russian military movements in Baltic region in last 24h."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaign", "finding" : "[Non-Baltic] Russian state media continue narratives against Ukraine and Western actions."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber/Infrastructure", "finding" : "No new cyberattacks or infrastructure threats reported in the Baltic states."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No new shadow fleet activity reported in the Baltic Sea in last 24h."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "NATO", "label" : "NATO Force Posture", "finding" : "No new troop movements or major exercises reported in the Baltic region."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Defense Initiatives", "finding" : "No new announcements on Baltic Defense Line or Suwalki Gap changes."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Russia-Baltic Diplomacy", "finding" : "No new Russia-Baltic diplomatic incidents or escalations in last 24h."}
+{"report_date" : "2026-03-16", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Legislation", "finding" : "No new escalatory Russian laws targeting Baltic states in last 72h."}
+{"report_date" : "2026-03-16", "status" : "YELLOW", "category" : "MILITARY", "label" : "Thermal Detections", "finding" : "253 thermal detections at Russian military sites indicate ongoing activity."}
+{"report_date" : "2026-03-16", "status" : "YELLOW", "category" : "HYBRID", "label" : "GPS Interference", "finding" : "Persistent GPS jamming from Kaliningrad/Pskov region continues as baseline activity."}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet", "finding" : "No shadow fleet or AIS spoofing incidents in Baltic Sea in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "MARITIME", "label" : "Cable Integrity", "finding" : "No undersea cable disruptions in Baltic Sea in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroups", "finding" : "NATO eFP battlegroups on routine posture in Baltics"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "NATO Baltic Air Policing continues routine operations"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "NATO", "label" : "Military Exercises", "finding" : "No new NATO or national exercises launched in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Warnings", "finding" : "No new high-level diplomatic escalations in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Sanctions Enforcement", "finding" : "Ongoing monitoring of Russian sanctions evasion via Belarus"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Decrees", "finding" : "No new Russian mobilization or nuclear doctrine decrees in last 72h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Defense Legislation", "finding" : "Baltic states advancing routine defense and security legislation"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "MILITARY", "label" : "Drone Incursions", "finding" : "No unauthorized drone incursions in Baltic airspace in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "MILITARY", "label" : "RU Force Movements", "finding" : "No Russian military movements near Baltic states in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No new GPS jamming incidents from Kaliningrad in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation", "finding" : "No new Russian disinformation campaigns targeting Baltics in last 24h"}
+{"report_date" : "2026-03-15", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Activity", "finding" : "No disruptive cyber incidents in Baltic states in last 24h"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "NATO", "label" : "Defense Spending", "finding" : "No new developments in last 24h"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "MILITARY", "label" : "76th VDV", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "HYBRID", "label" : "Balticconnector", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-14", "status" : "YELLOW", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "Persistent interference in Kaliningrad and Pskov"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Monitoring", "finding" : "No suspicious vessel behavior detected"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "MILITARY", "label" : "Iskander Systems", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No new exercises in last 24h"}
+{"report_date" : "2026-03-14", "status" : "YELLOW", "category" : "HYBRID", "label" : "Disinformation", "finding" : "Ongoing narrative operations targeting NATO cohesion"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Duma", "finding" : "No new bills affecting Baltic security"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage", "finding" : "No new incidents in last 24h"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Baltic Diplomacy", "finding" : "Routine bilateral meetings only"}
+{"report_date" : "2026-03-14", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "MARITIME", "label" : "Naval Movements", "finding" : "No unusual Baltic naval activity"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "MARITIME", "label" : "Baltic Sea Shadow Fleet", "finding" : "No suspicious activity in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "NATO", "label" : "NATO Drills", "finding" : "No exercises in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "NATO", "label" : "Allied Procurement", "finding" : "No new defense deals announced"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No new cases in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Bilateral Talks", "finding" : "Estonia-Latvia parliamentary meeting held"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Russian Duma Bills", "finding" : "No new laws passed in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "LEGISLATIVE", "label" : "Mobilization Decrees", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "No new coordinated campaigns detected"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "HYBRID", "label" : "Cable Sabotage", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "MILITARY", "label" : "76th VDV Pskov", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-13", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-13", "status" : "YELLOW", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "Persistent GPS interference in Kaliningrad and Pskov"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "MARITIME", "label" : "Baltic Cable Integrity", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Movements", "finding" : "No AIS gaps detected on watchlist vessels"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "NATO", "label" : "Defense Spending", "finding" : "No recent announcements in Baltic region"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Expulsions", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "MILITARY", "label" : "76th GAD", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "MILITARY", "label" : "Snap Exercises", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Threats", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-12", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "HYBRID", "label" : "GNSS Jamming", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Anomalies", "finding" : "[Non-Baltic] No gaps detected on watchlist vessels"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "NATO", "label" : "Defense Spending", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Disinformation", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "MILITARY", "label" : "76th Guards VDV", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "HYBRID", "label" : "Cable Integrity", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "HYBRID", "label" : "Drone Incursions", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-11", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Anomalies", "finding" : "[Non-Baltic] No gaps detected on watchlist vessels"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "HYBRID", "label" : "Airspace Violations", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "HYBRID", "label" : "Cable Disruption", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Operations", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "MILITARY", "label" : "76th Guards VDV", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Protests", "finding" : "Latvia issued protest note to Russian diplomat"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Cases", "finding" : "No new espionage incidents in Baltic region"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "NATO", "label" : "Defense Investments", "finding" : "South Korean investment supports Estonian defense needs"}
+{"report_date" : "2026-03-10", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "MARITIME", "label" : "Baltic Subsea Cables", "finding" : "No damage or interference detected"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "HYBRID", "label" : "Critical Infrastructure", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-09", "status" : "YELLOW", "category" : "MARITIME", "label" : "Shadow Fleet", "finding" : "Swedish authorities seize Russian 'shadow fleet' ship near Trelleborg"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage", "finding" : "No new espionage incidents reported"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "MILITARY", "label" : "Air Policing", "finding" : "No air violations detected in Baltic region"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Threats", "finding" : "No cyber incidents reported in last 24h"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "NATO", "label" : "Defense Spending", "finding" : "No new announcements in last 24h"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Border Incidents", "finding" : "No new border violations reported"}
+{"report_date" : "2026-03-09", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation", "finding" : "No significant disinformation campaigns detected"}
+{"report_date" : "2026-03-09", "status" : "YELLOW", "category" : "DIPLOMATIC", "label" : "SIM Box Scam", "finding" : "Estonian police arrest Latvian citizen over international scam call scheme"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "MILITARY", "label" : "76th GD Pskov", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Strikes in Ukraine", "finding" : "[Non-Baltic] Ballistic missile strike kills 10 in Kharkiv, Ukraine."}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "MARITIME", "label" : "Baltic Shipping", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "NATO", "label" : "NATO Drills", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "NATO", "label" : "Defense Spending", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Cases", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Expulsions", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "HYBRID", "label" : "Infra Disruption", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet", "finding" : "No AIS gaps detected on watchlist vessels."}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "HYBRID", "label" : "Hybrid Campaigns", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-08", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "MARITIME", "label" : "Russia-Iran Targeting Data", "finding" : "[Non-Baltic] Russia providing Iran with U.S. warship locations in Middle East"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Iskanders", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "HYBRID", "label" : "Baltic Sabotage", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "HYBRID", "label" : "Crimea Drone Crash", "finding" : "[Non-Baltic] 9 wounded in Crimea after Ukrainian drone interception failure"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Hanwha Investment", "finding" : "South Korean Hanwha to invest €100M in Estonian defense"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Prisoner Exchange", "finding" : "[Non-Baltic] Russia and Ukraine exchange 500 POWs with U.S.-UAE mediation"}
+{"report_date" : "2026-03-07", "status" : "YELLOW", "category" : "DIPLOMATIC", "label" : "Finland Nuclear Warning", "finding" : "Kremlin warns of retaliation if Finland hosts nuclear weapons"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "NATO", "label" : "Digital Shield Exercise", "finding" : "Estonia and US test anti-drone systems in joint exercise"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "NATO", "label" : "Lithuanian Intel", "finding" : "Russia focused on Ukraine, not direct NATO threat"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet AIS", "finding" : "No suspicious AIS gaps detected on watchlist vessels"}
+{"report_date" : "2026-03-07", "status" : "GREEN", "category" : "MARITIME", "label" : "Hormuz Seafarers Killed", "finding" : "[Non-Baltic] Four seafarers killed in Strait of Hormuz attack"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad G.", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Cases", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Defense Invest.", "finding" : "South Korea to invest €100M in Estonia"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "NATO", "label" : "Drone Procurement", "finding" : "Pentagon to order 30,000 one-way drones"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "NATO", "label" : "NATO Posture", "finding" : "Germany plans major defense spending increase"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet", "finding" : "[Non-Baltic] Russia may aid Iran with US ship tracking"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "HYBRID", "label" : "Sabotage Attk", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber/Drone Tst", "finding" : "Estonia and US test anti-drone systems"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "MILITARY", "label" : "Iskander Dep.", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "MILITARY", "label" : "WMD Troop Lvl", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "MILITARY", "label" : "76th GAA Dv.", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-06", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Statements", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "MILITARY", "label" : "76th Guards Air Assault Div", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "MILITARY", "label" : "6th CAA", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Defense Line", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Sabotage", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cables", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "MILITARY", "label" : "WMD Troop Levels", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-05", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Ethnic Russian Issues", "finding" : "No activity in last 24h"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No dark fleet movements reported in Baltic Sea on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Forces", "finding" : "No unusual alerts or exercises detected on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Disinformation", "finding" : "No cyber attacks or disinformation campaigns detected on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "HYBRID", "label" : "Cable & Pipeline Threats", "finding" : "No undersea infrastructure incidents reported on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "HYBRID", "label" : "GNSS Jamming", "finding" : "No GPS interference spikes reported over Baltic Sea on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "MILITARY", "label" : "Airspace Violations", "finding" : "No airspace breaches reported in Baltics on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported near Baltic states on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage & Intelligence", "finding" : "No espionage arrests or intelligence disruptions reported on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Incidents", "finding" : "No expulsions, border issues, or sanctions on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing & Deployments", "finding" : "Routine operations; no escalations on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Exercises", "finding" : "No major NATO drills reported on 2026-03-04"}
+{"report_date" : "2026-03-04", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing & Shipping Risks", "finding" : "No spoofing or oil spill risks detected on 2026-03-04"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Incidents", "finding" : "No Russia-Baltic diplomatic incidents reported on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No unusual activity reported on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No naval sorties documented on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "HYBRID", "label" : "Subsea Infrastructure", "finding" : "No sabotage or cable incidents reported on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Military Activity", "finding" : "No significant activity reported on 2026-03-03 in Baltic region"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "HYBRID", "label" : "Hybrid Warfare Incidents", "finding" : "No significant hybrid threats reported on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Movements", "finding" : "No notable shadow fleet activity in Baltic on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No specific NATO operations reported on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No spoofing or dark fleet tracking detected on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "No Baltic air policing events reported on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Activity", "finding" : "No espionage arrests or expulsions reported on 2026-03-03"}
+{"report_date" : "2026-03-03", "status" : "GREEN", "category" : "HYBRID", "label" : "Railway or Grid Sabotage", "finding" : "No infrastructure sabotage reported on 2026-03-03"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "MARITIME", "label" : "Pipeline & Cable Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Sabotage", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "HYBRID", "label" : "Critical Infrastructure", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Border Expulsions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroups", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-02", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "MILITARY", "label" : "Airspace Violations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Defense Drills", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "MARITIME", "label" : "Anchor-Dragging Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Infrastructure Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "HYBRID", "label" : "GNSS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "HYBRID", "label" : "Subsea Cable Integrity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "MILITARY", "label" : "Naval Deployments", "finding" : "No significant activity reported"}
+{"report_date" : "2026-03-01", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "HYBRID", "label" : "Hybrid Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Military Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "ORANGE", "category" : "MARITIME", "label" : "Shadow Fleet Seizure", "finding" : "MT Ethera seized by Belgian and French forces in North Sea"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Sanctions Enforcement", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "HYBRID", "label" : "Infrastructure Sabotage", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-28", "status" : "GREEN", "category" : "MILITARY", "label" : "Snap Exercises", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "NATO", "label" : "Exercise Steadfast Dart", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Border Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Expulsions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Defense Line", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing Operations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber and Disinformation", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "HYBRID", "label" : "Hybrid Warfare Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "MILITARY", "label" : "Air and Naval Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-27", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Ground Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Infrastructure", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "NATO Diplomacy", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "YELLOW", "category" : "DIPLOMATIC", "label" : "Russia-Belarus Summit", "finding" : "Putin and Lukashenko held joint council meeting in Moscow"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "NATO", "label" : "Steadfast Dart 26", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Sentry Operation", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Transits", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "HYBRID", "label" : "GNSS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Integrity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "YELLOW", "category" : "HYBRID", "label" : "Energy Grid Threat", "finding" : "Nordic states on alert over credible energy grid threat"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-26", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "MARITIME", "label" : "Anchor-Dragging Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Military Posture", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Infrastructure", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "HYBRID", "label" : "Energy Sabotage Risk", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "NATO", "label" : "NATO Drills Baltic", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-25", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage & Diplomacy", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Air Policing", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Russia-Baltic Relations", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "NATO", "label" : "Steadfast Dart Exercises", "finding" : "No significant activity reported for 2026-02-24."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "MARITIME", "label" : "Oil Spill Risks", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Ground Forces", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Movements", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "HYBRID", "label" : "Airspace Violations", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "HYBRID", "label" : "Sabotage and Espionage", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-24", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing Risks", "finding" : "No significant activity reported."}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "MARITIME", "label" : "Anchor-Dragging Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "MARITIME", "label" : "Oil Spill Hazards", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "NATO", "label" : "Amphibious Drills", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Infrastructure Attacks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-23", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet AIS Off", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "HYBRID", "label" : "GNSS Jamming", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Ground Forces", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Operations", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Disinformation", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "HYBRID", "label" : "Critical Infrastructure Threats", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing & Navigation", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Exercises", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing Missions", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Baltic Diplomatic Tensions", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-21", "status" : "GREEN", "category" : "MILITARY", "label" : "Snap Exercises", "finding" : "No significant activity reported on 2026-02-21"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroup Rotations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing Missions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "NATO", "label" : "BALTOPS Exercises", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Expulsions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Border Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Sabotage Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Ground Forces", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-20", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Military Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "HYBRID", "label" : "Hybrid Warfare Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Relations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Forces", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-19", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-18", "status" : "YELLOW", "category" : "NATO", "label" : "Steadfast Dart Drill", "finding" : "NATO conducted major amphibious exercise off Germany’s Baltic coast."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Lavrov Meeting", "finding" : "Lavrov met Cuban counterpart; Baltics not discussed."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No espionage-related arrests or expulsions in Baltic region on date."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Baltic Diplomacy", "finding" : "No diplomatic incidents or statements involving Baltic states reported."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroups", "finding" : "No troop rotations or alerts in Baltic eFP battlegroups on date."}
+{"report_date" : "2026-02-18", "status" : "YELLOW", "category" : "NATO", "label" : "Beachhead Seizure Training", "finding" : "11 nations practiced rapid deployment and amphibious assault operations."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Border Activity", "finding" : "No significant Russian military activity near Baltic borders reported."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No movements or alerts reported in Kaliningrad on February 18."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Sabotage", "finding" : "No hybrid incidents in Baltic region on February 18, 2026."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "No evidence of new disinformation operations targeting Baltics on date."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Movements", "finding" : "No dark fleet activity detected in Baltic Sea on February 18."}
+{"report_date" : "2026-02-18", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "[Non-Baltic] No AIS anomalies or spoofing incidents reported on date."}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "MARITIME", "label" : "Oil Spill Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "NATO", "label" : "NATO Drills", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing Operations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Engagements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Infrastructure Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Integrity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-17", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Attacks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Operations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Expulsions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "NATO", "label" : "NATO Drills", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-16", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Ground Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "MILITARY", "label" : "Air Assault Units", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Attacks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "HYBRID", "label" : "Infrastructure Sabotage", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Voyages", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "MARITIME", "label" : "Undersea Cable Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "NATO", "label" : "Steadfast Dart Exercises", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-15", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "YELLOW", "category" : "NATO", "label" : "NATO Steadfast Dart", "finding" : "ARF maritime forces deployed to Baltic Sea"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "MARITIME", "label" : "Anchor-Dragging Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Tankers", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Expulsions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Disinformation", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Integrity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-14", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroup Rotations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "NATO", "label" : "NATO Drills", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "YELLOW", "category" : "MARITIME", "label" : "Oil Spill Threat", "finding" : "Aging shadow fleet raises environmental concerns in Baltic Sea"}
+{"report_date" : "2026-02-13", "status" : "YELLOW", "category" : "MARITIME", "label" : "AIS Spoofing Risk", "finding" : "Ongoing risk from shadow fleet use of spoofed transponders"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "MARITIME", "label" : "Ukraine Vessel Sanctions", "finding" : "[Non-Baltic] Ukraine sanctions 91 shadow fleet vessels involved in oil transport"}
+{"report_date" : "2026-02-13", "status" : "ORANGE", "category" : "MARITIME", "label" : "Shadow Fleet Transit", "finding" : "Denmark reports 292 shadow fleet tankers transited straits in 2025"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Attacks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-13", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Attacks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "YELLOW", "category" : "NATO", "label" : "Naval Innovation Pact", "finding" : "8 Allies to boost Baltic maritime tech integration"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroup Rotations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "MARITIME", "label" : "Anchor-Dragging Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "HYBRID", "label" : "Sabotage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "HYBRID", "label" : "GNSS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-12", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "MARITIME", "label" : "Underway Replenishment Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing & Routing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "HYBRID", "label" : "Disinformation Campaigns", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing & Patrols", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "HYBRID", "label" : "Airspace Violations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Sabotage Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Deployments", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Operations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Defense Activities", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-11", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage & Diplomatic Tensions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing Patrols", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "NATO", "label" : "Steadfast Dart Exercises", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "MARITIME", "label" : "Oil Spill Risks", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing Alerts", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Transits", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "HYBRID", "label" : "Migration Weaponization", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "HYBRID", "label" : "Undersea Cable Integrity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-10", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Troop Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroup Rotations", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "MARITIME", "label" : "Oil Spill Risk", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "HYBRID", "label" : "Drone Incursions", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "HYBRID", "label" : "GPS Jamming", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber Infrastructure Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Sorties", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-09", "status" : "GREEN", "category" : "MILITORY", "label" : "Kaliningrad Garrison", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "HYBRID", "label" : "Migration Pressure", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Movements", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "NATO", "label" : "Air Policing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "HYBRID", "label" : "Infrastructure Sabotage", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "MILITARY", "label" : "Kaliningrad Deployments", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Incidents", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "NATO", "label" : "NATO Exercises", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "HYBRID", "label" : "Hybrid Threats", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-08", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Military Activity", "finding" : "No significant activity reported"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Border Incidents", "finding" : "No border provocations reported at Narva or Belarus-Lithuania on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Espionage Arrests", "finding" : "No intelligence-related arrests reported in Estonia or Latvia on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "DIPLOMATIC", "label" : "Diplomatic Expulsions", "finding" : "No expulsions or tensions reported between Baltic states and Russia on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "NATO", "label" : "eFP Battlegroups", "finding" : "No rotations or alerts reported in Baltic states on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "MILITARY", "label" : "Russian Ground Ops", "finding" : "No significant activity reported near Baltic states on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "MILITARY", "label" : "Baltic Fleet Movements", "finding" : "No naval sorties or exercises reported in Baltic Sea on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "HYBRID", "label" : "Cyber & Sabotage", "finding" : "No hybrid attacks reported in Baltic or Nordic region on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "HYBRID", "label" : "Airspace Violations", "finding" : "No unauthorized incursions into Baltic airspace reported on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "MARITIME", "label" : "Shadow Fleet Transit", "finding" : "No shadow fleet activity documented in Baltic on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "MARITIME", "label" : "AIS Spoofing", "finding" : "No AIS manipulation incidents reported in Baltic Sea on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "NATO", "label" : "Steadfast Dart Drills", "finding" : "Ongoing but no activity recorded in Baltic on 2026-02-07"}
+{"report_date" : "2026-02-07", "status" : "GREEN", "category" : "NATO", "label" : "Baltic Air Policing", "finding" : "No air policing events reported from Ämari or Šiauliai on 2026-02-07"}
