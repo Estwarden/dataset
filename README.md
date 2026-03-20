@@ -150,3 +150,18 @@ You are free to share and adapt this dataset. Please credit EstWarden.
 - [Estwarden/collectors](https://github.com/Estwarden/collectors) — Data collection pipelines
 - [Estwarden/research](https://github.com/Estwarden/research) — CTI methodology + autoresearch
 - [Estwarden/integrations](https://github.com/Estwarden/integrations) — MCP server, Home Assistant, CLI
+
+## Region Tags
+
+Signals in production are tagged with geographic regions:
+`estonia`, `latvia`, `lithuania`, `finland`, `poland`, `baltic` (composite),
+plus adversary zones: `kaliningrad`, `pskov`, `stpetersburg`, `belarus_north`, `murmansk`.
+
+This dataset was exported **before** region tagging was deployed, so signals
+do not include a `region` field. A future release will include region-tagged data
+for per-country analysis.
+
+The CTI is computed separately for three regions:
+- **Baltic** (estwarden, latwarden, litwarden, balticwarden)
+- **Finland** (finwarden)
+- **Poland** (polwarden)
