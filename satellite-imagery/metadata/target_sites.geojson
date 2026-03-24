@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Pskov — 76th Guards VDV Division", "unit": "76th VDV", "status_mar2026": "Deployed to Zaporizhia/Orikhiv, Ukraine"},
+      "geometry": {"type": "Point", "coordinates": [28.39, 57.78]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Luga — 25th MRB / 26th Rocket Bde / 9th Artillery Bde", "unit": "Multiple", "status_mar2026": "Equipment sent to Ukraine per Yle Oct 2025"},
+      "geometry": {"type": "Point", "coordinates": [29.84, 58.73]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Kamenka — 69th Guards MR Division (ex-138th MRB)", "unit": "69th MR Div", "status_mar2026": "Deployed to Kharkiv/Sumy, 83rd MRR at Vovchansk"},
+      "geometry": {"type": "Point", "coordinates": [29.105, 60.443]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Petrozavodsk/Rybka — 44th Army Corps HQ", "unit": "44th AC", "status_mar2026": "Skeleton formation, most troops in Ukraine"},
+      "geometry": {"type": "Point", "coordinates": [34.35, 61.78]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Alakurtti — 80th Arctic Motor Rifle Brigade", "unit": "80th Arctic Bde", "status_mar2026": "Deployed to Sumy Oblast"},
+      "geometry": {"type": "Point", "coordinates": [30.35, 66.96]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Kaliningrad — 11th Army Corps", "unit": "11th AC", "status_mar2026": "Elements deployed to Kupyansk"},
+      "geometry": {"type": "Point", "coordinates": [20.51, 54.71]}
+    }
+  ]
+}
