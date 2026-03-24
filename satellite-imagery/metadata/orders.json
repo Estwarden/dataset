@@ -1,187 +1,187 @@
 {
-  "project": "Leningrad Military District \u2014 Force Posture Verification",
-  "purpose": "Independent satellite imagery verification of Russian military force posture in the Leningrad Military District (LVO), cross-referenced with open-source unit tracking data",
-  "methodology": "Commercial satellite imagery from SkyFi marketplace + free Sentinel-2/ICEYE archives + ISW/CDS order of battle tracking",
-  "total_cost_usd": 532.45,
-  "orders": [
-    {
-      "order_code": "260lK253",
-      "target": "Pskov \u2014 76th Guards VDV Division airfield",
-      "provider": "Planet",
-      "constellation": "SkySat",
-      "resolution_cm": 50,
-      "capture_date": "2026-03-14",
-      "cloud_cover_pct": 0,
-      "cost_usd": 242.4,
-      "aoi_sqkm": 30.3,
-      "coordinates": {
-        "lat": 57.78,
-        "lon": 28.39
-      },
-      "file": "pskov-76vdv/pskov-76vdv-skysat-2026-03-14.jpg",
-      "status": "DELIVERED",
-      "finding": "Empty aprons and low vehicle concentration. No deployed aircraft visible."
+    "project": "Leningrad Military District — Force Posture Verification",
+    "purpose": "Independent satellite imagery verification of Russian military force posture in the Leningrad Military District (LVO), cross-referenced with open-source unit tracking data",
+    "methodology": "Commercial satellite imagery from SkyFi marketplace + free Sentinel-2/ICEYE archives + ISW/CDS order of battle tracking",
+    "total_cost_usd": 532.45,
+    "orders": [
+        {
+            "order_code": "260lK253",
+            "target": "Pskov — 76th Guards VDV Division airfield",
+            "provider": "Planet",
+            "constellation": "SkySat",
+            "resolution_cm": 50,
+            "capture_date": "2026-03-14",
+            "cloud_cover_pct": 0,
+            "cost_usd": 242.4,
+            "aoi_sqkm": 30.3,
+            "coordinates": {
+                "lat": 57.78,
+                "lon": 28.39
+            },
+            "file": "pskov-76vdv/pskov-76vdv-skysat-2026-03-14.jpg",
+            "status": "DELIVERED",
+            "finding": "Empty aprons and low vehicle concentration. No deployed aircraft visible."
+        },
+        {
+            "order_code": "26dc8iQF",
+            "target": "Pskov south — Cherekha VDV garrison area",
+            "provider": "Maxar/Vantor",
+            "constellation": "WorldView-3",
+            "resolution_cm": 35,
+            "capture_date": "2026-02-05",
+            "cloud_cover_pct": 0,
+            "cost_usd": 86.77,
+            "aoi_sqkm": 4.69,
+            "coordinates": {
+                "lat": 57.785,
+                "lon": 28.485
+            },
+            "file": "pskov-cherekha-vdv/pskov-cherekha-wv3-2026-02-05.jpg",
+            "status": "DELIVERED",
+            "finding": "Low vehicle presence in garrison area."
+        },
+        {
+            "order_code": "26aKRJkD",
+            "target": "Luga — garrison area (25th MRB/68th MR Div, 26th Rocket Bde, 9th Artillery Bde)",
+            "provider": "Planet",
+            "constellation": "SkySat",
+            "resolution_cm": 50,
+            "capture_date": "2026-03-07",
+            "cloud_cover_pct": 0,
+            "cost_usd": 203.28,
+            "aoi_sqkm": 25.41,
+            "coordinates": {
+                "lat": 58.73,
+                "lon": 29.83
+            },
+            "file": "luga-garrison/luga-garrison-skysat-2026-03-07.jpg",
+            "status": "DELIVERED",
+            "finding": "Snow-covered garrison area. No military vehicle concentrations visible. Consistent with Yle Oct 2025 report of equipment shipped to Ukraine."
+        },
+        {
+            "order_code": "26JLKFnM",
+            "target": "Luga — wide area recon",
+            "provider": "Sentinel-2 (Copernicus)",
+            "constellation": "Sentinel-2",
+            "resolution_cm": 1000,
+            "capture_date": "2026-03-21",
+            "cloud_cover_pct": 0.25,
+            "cost_usd": 0,
+            "aoi_sqkm": 103.24,
+            "coordinates": {
+                "lat": 58.73,
+                "lon": 29.84
+            },
+            "file": "luga-sentinel2/luga-sentinel2-2026-03-21.png",
+            "status": "DELIVERED",
+            "finding": "Wide-area multispectral. No large vehicle concentrations visible at 10m."
+        },
+        {
+            "order_code": "263Z8ae8",
+            "target": "Kaliningrad — Chernyakhovsk base",
+            "provider": "Sentinel-2 (Copernicus)",
+            "constellation": "Sentinel-2",
+            "resolution_cm": 1000,
+            "capture_date": "2026-03-22",
+            "cloud_cover_pct": 0.25,
+            "cost_usd": 0,
+            "aoi_sqkm": 75.48,
+            "coordinates": {
+                "lat": 54.63,
+                "lon": 21.825
+            },
+            "file": "kaliningrad-sentinel2/kaliningrad-sentinel2-2026-03-22.png",
+            "status": "DELIVERED",
+            "finding": "Baltic Fleet area. Included for regional completeness."
+        },
+        {
+            "order_code": "26fDV6YZ",
+            "target": "Luga — ICEYE SAR radar",
+            "provider": "ICEYE",
+            "constellation": "ICEYE",
+            "resolution_cm": 246,
+            "capture_date": "2026-01-30",
+            "cloud_cover_pct": 0,
+            "cost_usd": 0,
+            "aoi_sqkm": 38.71,
+            "coordinates": {
+                "lat": 58.73,
+                "lon": 29.84
+            },
+            "file": "luga-iceye-sar/luga-iceye-sar-2026-01-30.png",
+            "status": "DELIVERED",
+            "finding": "SAR radar imagery. Penetrates clouds. Low backscatter in garrison area."
+        },
+        {
+            "order_code": "26qS1MNb",
+            "target": "Luga — ICEYE SAR radar",
+            "provider": "ICEYE",
+            "constellation": "ICEYE",
+            "resolution_cm": 244,
+            "capture_date": "2026-02-05",
+            "cloud_cover_pct": 0,
+            "cost_usd": 0,
+            "aoi_sqkm": 38.71,
+            "coordinates": {
+                "lat": 58.73,
+                "lon": 29.84
+            },
+            "file": "luga-iceye-sar/luga-iceye-sar-2026-02-05.png",
+            "status": "DELIVERED",
+            "finding": "SAR radar imagery. Consistent with Jan 30 — no significant change in backscatter."
+        }
+    ],
+    "additional_sources": {
+        "estwarden_earth_engine": {
+            "description": "Daily automated Sentinel-2 + SAR analysis of 38 military sites via Google Earth Engine",
+            "sites_monitored": [
+                "Pskov-76th-VDV",
+                "Kamenka-138th-MRB",
+                "Luga-6th-CAA",
+                "Strugi-Krasnye"
+            ],
+            "latest_assessment": {
+                "pskov": "LOW — clear runway and low vehicle concentration (Mar 22)",
+                "kamenka": "MODERATE — vehicle concentration LOW (Mar 21)",
+                "luga": "MODERATE — vehicle concentration LOW, no aircraft (Mar 22)",
+                "strugi_krasnye": "LOW — no visible vehicles or aircraft (Mar 21)"
+            },
+            "url": "https://estwarden.eu",
+            "methodology": "https://github.com/Estwarden/research"
+        },
+        "isw_cds_unit_tracking": {
+            "description": "Institute for the Study of War / Center for Defence Strategies order of battle reports",
+            "file": "unit-tracking/lmd_units_march2026.csv",
+            "isw_url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
+            "cds_url": "https://defence.org.ua/"
+        },
+        "corroborating_intelligence": [
+            {
+                "source": "Finnish OSINT / Yle satellite analysis",
+                "date": "2026-01",
+                "finding": "50 trucks at Rybka, 2500-3000 troops in Karelia",
+                "url": "https://yle.fi/a/74-20207070"
+            },
+            {
+                "source": "Lithuanian VSD annual threat assessment",
+                "date": "2026-03",
+                "finding": "6-10 years for full NATO conflict readiness",
+                "url": "https://www.lrt.lt/en/news-in-english/19/2859104/"
+            },
+            {
+                "source": "Lithuanian VSD (Stars and Stripes)",
+                "date": "2026-03",
+                "finding": "Limited Baltic conflict 1-2 years if sanctions lifted",
+                "url": "https://www.stripes.com/theaters/europe/2026-03-09/lithuania-russia-threat-21003306.html"
+            },
+            {
+                "source": "Estonian intelligence annual report",
+                "date": "2026-01",
+                "finding": "Russia has no intention of attacking any NATO state",
+                "url": "https://www.valisluureamet.ee/doc/raport/2026-en.pdf"
+            }
+        ]
     },
-    {
-      "order_code": "26dc8iQF",
-      "target": "Pskov south \u2014 Cherekha VDV garrison area",
-      "provider": "Maxar/Vantor",
-      "constellation": "WorldView-3",
-      "resolution_cm": 35,
-      "capture_date": "2026-02-05",
-      "cloud_cover_pct": 0,
-      "cost_usd": 86.77,
-      "aoi_sqkm": 4.69,
-      "coordinates": {
-        "lat": 57.785,
-        "lon": 28.485
-      },
-      "file": "pskov-cherekha-vdv/pskov-cherekha-wv3-2026-02-05.jpg",
-      "status": "DELIVERED",
-      "finding": "Low vehicle presence in garrison area."
-    },
-    {
-      "order_code": "26aKRJkD",
-      "target": "Luga \u2014 garrison area (25th MRB/68th MR Div, 26th Rocket Bde, 9th Artillery Bde)",
-      "provider": "Planet",
-      "constellation": "SkySat",
-      "resolution_cm": 50,
-      "capture_date": "2026-03-07",
-      "cloud_cover_pct": 0,
-      "cost_usd": 203.28,
-      "aoi_sqkm": 25.41,
-      "coordinates": {
-        "lat": 58.73,
-        "lon": 29.83
-      },
-      "file": "luga-garrison/",
-      "status": "PROCESSING",
-      "finding": "Pending delivery"
-    },
-    {
-      "order_code": "26JLKFnM",
-      "target": "Luga \u2014 wide area recon",
-      "provider": "Sentinel-2 (Copernicus)",
-      "constellation": "Sentinel-2",
-      "resolution_cm": 1000,
-      "capture_date": "2026-03-21",
-      "cloud_cover_pct": 0.25,
-      "cost_usd": 0,
-      "aoi_sqkm": 103.24,
-      "coordinates": {
-        "lat": 58.73,
-        "lon": 29.84
-      },
-      "file": "luga-sentinel2/luga-sentinel2-2026-03-21.png",
-      "status": "DELIVERED",
-      "finding": "Wide-area multispectral. No large vehicle concentrations visible at 10m."
-    },
-    {
-      "order_code": "263Z8ae8",
-      "target": "Kaliningrad \u2014 Chernyakhovsk base",
-      "provider": "Sentinel-2 (Copernicus)",
-      "constellation": "Sentinel-2",
-      "resolution_cm": 1000,
-      "capture_date": "2026-03-22",
-      "cloud_cover_pct": 0.25,
-      "cost_usd": 0,
-      "aoi_sqkm": 75.48,
-      "coordinates": {
-        "lat": 54.63,
-        "lon": 21.825
-      },
-      "file": "kaliningrad-sentinel2/kaliningrad-sentinel2-2026-03-22.png",
-      "status": "DELIVERED",
-      "finding": "Baltic Fleet area. Included for regional completeness."
-    },
-    {
-      "order_code": "26fDV6YZ",
-      "target": "Luga \u2014 ICEYE SAR radar",
-      "provider": "ICEYE",
-      "constellation": "ICEYE",
-      "resolution_cm": 246,
-      "capture_date": "2026-01-30",
-      "cloud_cover_pct": 0,
-      "cost_usd": 0,
-      "aoi_sqkm": 38.71,
-      "coordinates": {
-        "lat": 58.73,
-        "lon": 29.84
-      },
-      "file": "luga-iceye-sar/luga-iceye-sar-2026-01-30.png",
-      "status": "DELIVERED",
-      "finding": "SAR radar imagery. Penetrates clouds. Low backscatter in garrison area."
-    },
-    {
-      "order_code": "26qS1MNb",
-      "target": "Luga \u2014 ICEYE SAR radar",
-      "provider": "ICEYE",
-      "constellation": "ICEYE",
-      "resolution_cm": 244,
-      "capture_date": "2026-02-05",
-      "cloud_cover_pct": 0,
-      "cost_usd": 0,
-      "aoi_sqkm": 38.71,
-      "coordinates": {
-        "lat": 58.73,
-        "lon": 29.84
-      },
-      "file": "luga-iceye-sar/luga-iceye-sar-2026-02-05.png",
-      "status": "DELIVERED",
-      "finding": "SAR radar imagery. Consistent with Jan 30 \u2014 no significant change in backscatter."
-    }
-  ],
-  "additional_sources": {
-    "estwarden_earth_engine": {
-      "description": "Daily automated Sentinel-2 + SAR analysis of 38 military sites via Google Earth Engine",
-      "sites_monitored": [
-        "Pskov-76th-VDV",
-        "Kamenka-138th-MRB",
-        "Luga-6th-CAA",
-        "Strugi-Krasnye"
-      ],
-      "latest_assessment": {
-        "pskov": "LOW \u2014 clear runway and low vehicle concentration (Mar 22)",
-        "kamenka": "MODERATE \u2014 vehicle concentration LOW (Mar 21)",
-        "luga": "MODERATE \u2014 vehicle concentration LOW, no aircraft (Mar 22)",
-        "strugi_krasnye": "LOW \u2014 no visible vehicles or aircraft (Mar 21)"
-      },
-      "url": "https://estwarden.eu",
-      "methodology": "https://github.com/Estwarden/research"
-    },
-    "isw_cds_unit_tracking": {
-      "description": "Institute for the Study of War / Center for Defence Strategies order of battle reports",
-      "file": "unit-tracking/lmd_units_march2026.csv",
-      "isw_url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment",
-      "cds_url": "https://defence.org.ua/"
-    },
-    "corroborating_intelligence": [
-      {
-        "source": "Finnish OSINT / Yle satellite analysis",
-        "date": "2026-01",
-        "finding": "50 trucks at Rybka, 2500-3000 troops in Karelia",
-        "url": "https://yle.fi/a/74-20113407"
-      },
-      {
-        "source": "Lithuanian VSD annual threat assessment",
-        "date": "2026-03",
-        "finding": "6-10 years for full NATO conflict readiness",
-        "url": "https://www.lrt.lt/en/news-in-english/19/2859104/"
-      },
-      {
-        "source": "Lithuanian VSD (Stars and Stripes)",
-        "date": "2026-03",
-        "finding": "Limited Baltic conflict 1-2 years if sanctions lifted",
-        "url": "https://www.stripes.com/theaters/europe/2026-03-09/lithuania-russia-threat-21003306.html"
-      },
-      {
-        "source": "Estonian intelligence annual report",
-        "date": "2026-01",
-        "finding": "Russia has no intention of attacking any NATO state",
-        "url": "https://www.valisluureamet.ee/doc/raport/2026-en.pdf"
-      }
-    ]
-  },
-  "imagery_marketplace": "https://skyfi.com",
-  "api_documentation": "https://docs.skyfi.com"
+    "imagery_marketplace": "https://skyfi.com",
+    "api_documentation": "https://docs.skyfi.com"
 }
