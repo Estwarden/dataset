@@ -14,17 +14,30 @@ aprons, consistent with unit absence.
 
 ## Imagery
 
-| Target | Sensor | Date | Resolution | File |
-|--------|--------|------|-----------|------|
-| Pskov — 76th VDV airfield | Planet SkySat | 2026-03-14 | 50cm | `pskov-76vdv/` |
-| Pskov — Cherekha garrison | Maxar WorldView-3 | 2026-02-05 | 35cm | `pskov-cherekha-vdv/` |
-| Luga — garrison area | Planet SkySat | 2026-03-07 | 50cm | `luga-garrison/` *(pending)* |
-| Luga — wide area | Sentinel-2 | 2026-03-21 | 10m | `luga-sentinel2/` |
-| Luga — SAR radar | ICEYE | 2026-01-30 | 2.5m | `luga-iceye-sar/` |
-| Luga — SAR radar | ICEYE | 2026-02-05 | 2.5m | `luga-iceye-sar/` |
-| Kaliningrad — Chernyakhovsk | Sentinel-2 | 2026-03-22 | 10m | `kaliningrad-sentinel2/` |
+### Full Datasets (open data, in repo)
 
-Imagery acquired via [SkyFi](https://skyfi.com) satellite marketplace API.
+| Target | Sensor | Date | Resolution | Preview | GeoTIFF Payload |
+|--------|--------|------|-----------|---------|-----------------|
+| Luga — wide area | [Sentinel-2](https://dataspace.copernicus.eu/) | 2026-03-21 | 10m | `luga-sentinel2/*.png` | `luga-sentinel2/*-payload.zip` (35MB) |
+| Kaliningrad — Chernyakhovsk | [Sentinel-2](https://dataspace.copernicus.eu/) | 2026-03-22 | 10m | `kaliningrad-sentinel2/*.png` | `kaliningrad-sentinel2/*-payload.zip` (26MB) |
+
+### Full Datasets (open data, GitHub Release — too large for repo)
+
+| Target | Sensor | Date | Resolution | Preview | GeoTIFF Payload |
+|--------|--------|------|-----------|---------|-----------------|
+| Luga — SAR radar | [ICEYE](https://www.iceye.com/) | 2026-01-30 | 2.5m | `luga-iceye-sar/*.png` | See [Releases](../../releases) (7.7GB) |
+| Luga — SAR radar | [ICEYE](https://www.iceye.com/) | 2026-02-05 | 2.5m | `luga-iceye-sar/*.png` | See [Releases](../../releases) (7.7GB) |
+
+### Preview Only (commercial imagery — [SkyFi EULA](https://skyfi.com/en/end-user-license-agreement) allows web sharing with attribution, not redistribution of raw data)
+
+| Target | Sensor | Date | Resolution | Preview | Reproduce |
+|--------|--------|------|-----------|---------|-----------|
+| Pskov — 76th VDV airfield | [Planet](https://www.planet.com/) SkySat | 2026-03-14 | 50cm | `pskov-76vdv/*.jpg` | [SkyFi](https://skyfi.com) archive `4d2b62e5-7edc-4173-9347-c8c7dc7bbe21` |
+| Pskov — Cherekha garrison | [Maxar](https://www.maxar.com/) WorldView-3 | 2026-02-05 | 35cm | `pskov-cherekha-vdv/*.jpg` | [SkyFi](https://skyfi.com) archive `cbf8d9ac-25be-4028-aff6-edc43a263cf1` |
+| Luga — garrison area | [Planet](https://www.planet.com/) SkySat | 2026-03-07 | 50cm | *pending delivery* | [SkyFi](https://skyfi.com) archive `0390f2c9-32c9-4e32-81b2-aa6842dbb273` |
+
+To reproduce commercial imagery: create a [SkyFi](https://skyfi.com) account, search
+the archive IDs above via their [API](https://docs.skyfi.com) or web UI, and purchase.
 
 ## Unit Tracking (ISW/CDS)
 
@@ -59,34 +72,31 @@ Methodology: [Estwarden/research](https://github.com/Estwarden/research)
 
 | Source | Date | Finding | Link |
 |--------|------|---------|------|
-| Finnish OSINT / Yle satellite analysis | Jan 2026 | 50 trucks at Rybka (Petrozavodsk), 2,500–3,000 troops in Karelia | [yle.fi](https://yle.fi/a/74-20113407) |
-| Lithuanian VSD annual threat assessment | Mar 2026 | 6–10 years for full NATO conflict readiness; 15,000 troops in Karelia (was 3,000) | [lrt.lt](https://www.lrt.lt/en/news-in-english/19/2859104/) |
-| Lithuanian VSD (Stars and Stripes) | Mar 2026 | Russia needs 6–10 years; limited Baltic conflict 1–2 years if sanctions lifted | [stripes.com](https://www.stripes.com/theaters/europe/2026-03-09/lithuania-russia-threat-21003306.html) |
-| Estonian intelligence annual report | Jan 2026 | "Russia has no intention of attacking any NATO state this year or next" | [valisluureamet.ee](https://www.valisluureamet.ee/doc/raport/2026-en.pdf) |
-| BISI (Baltic Institute for Security and Innovation) | Mar 2026 | 80,000 troops is the PLAN, unlikely until after Ukraine war | [bisi.lv](https://bisi.lv/en/publications/) |
+| Finnish OSINT / Yle satellite analysis | Jan 2026 | 50 trucks at Rybka, 2,500–3,000 troops in Karelia | [yle.fi](https://yle.fi/a/74-20113407) |
+| Lithuanian VSD annual threat assessment | Mar 2026 | 6–10 years for full NATO conflict readiness | [lrt.lt](https://www.lrt.lt/en/news-in-english/19/2859104/) |
+| Lithuanian VSD (Stars and Stripes) | Mar 2026 | Limited Baltic conflict 1–2 years if sanctions lifted | [stripes.com](https://www.stripes.com/theaters/europe/2026-03-09/lithuania-russia-threat-21003306.html) |
+| Estonian intelligence annual report | Jan 2026 | "No intention of attacking any NATO state" | [valisluureamet.ee](https://www.valisluureamet.ee/doc/raport/2026-en.pdf) |
 
 ## Methodology
 
 1. Identified LVO garrison locations from open sources ([Wikimapia](https://wikimapia.org), [Google Earth](https://earth.google.com))
-2. Ordered commercial satellite imagery via [SkyFi API](https://skyfi.com)
-3. Supplemented with free [Sentinel-2](https://dataspace.copernicus.eu/) multispectral and [ICEYE](https://www.iceye.com/) SAR radar imagery
+2. Ordered commercial satellite imagery via [SkyFi API](https://skyfi.com) ([docs](https://docs.skyfi.com))
+3. Supplemented with free [Sentinel-2](https://dataspace.copernicus.eu/) and [ICEYE](https://www.iceye.com/) open data
 4. Cross-referenced with [ISW daily assessments](https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment) and [CDS reports](https://defence.org.ua/)
-5. Validated against EstWarden automated [Earth Engine](https://earthengine.google.com/) monitoring pipeline
-
-All imagery preview files are included. Full-resolution GeoTIFF payloads available
-on request (multi-GB files, too large for GitHub).
+5. Validated against EstWarden [Earth Engine](https://earthengine.google.com/) monitoring pipeline ([methodology](https://github.com/Estwarden/research))
 
 ## Data Files
 
-- `metadata/orders.json` — Full order details, costs, coordinates, findings
+- `metadata/orders.json` — Full order details, costs, coordinates, findings, source URLs
 - `metadata/target_sites.geojson` — GeoJSON with all monitored base locations
-- `unit-tracking/lmd_units_march2026.csv` — ISW/CDS unit location data with source URLs
+- `unit-tracking/lmd_units_march2026.csv` — ISW/CDS unit locations with source URLs
 
 ## License
 
-Satellite imagery: subject to provider licensing terms ([Planet](https://www.planet.com/), [Maxar](https://www.maxar.com/), [ESA Copernicus](https://dataspace.copernicus.eu/), [ICEYE](https://www.iceye.com/)).
-Preview images included under fair use for research and public interest reporting.
-Unit tracking data and metadata: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Sentinel-2**: [Copernicus open access](https://dataspace.copernicus.eu/terms-and-conditions) — free to use and redistribute
+- **ICEYE free tier**: Open data — free to use and redistribute
+- **Planet SkySat / Maxar WV3**: [SkyFi EULA](https://skyfi.com/en/end-user-license-agreement) — web sharing with attribution allowed, raw data redistribution prohibited. Preview images included; archive IDs provided for independent purchase.
+- **Unit tracking data & metadata**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Attribution
 

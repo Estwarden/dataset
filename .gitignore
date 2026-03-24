@@ -1,2 +1,4 @@
 *.tmp
 *.bak
+luga-iceye-sar/*-payload.zip
+satellite-imagery/luga-iceye-sar/*-payload.zip
